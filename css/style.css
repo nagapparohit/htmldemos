@@ -1,3 +1,3 @@
-table,td,th {
-  border: 1px solid red;
+table,td,th,header ,section,footer {
+  border: 2px solid red;
 }
